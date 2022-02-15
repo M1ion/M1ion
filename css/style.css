@@ -53,6 +53,7 @@ h1{
 #heading{
     font-size: 10em;
     font-family: 'Akaya Telivigala', cursive;
+    font-weight: 15;
     position: relative;
     bottom: 50;
 }
@@ -69,7 +70,7 @@ h1{
 #paragraph-one{
     padding-top: 2.500em;
     font-size: 1.250em;
-    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-family: 'Source Code Pro', monospace;
     font-weight: 15;
     position: relative;
     bottom: 3.125em;
@@ -79,7 +80,7 @@ h1{
     font-size: 60; 
     color:#20B2AA;
     text-align: center;
-    font-family: monospace;
+    font-family: 'Source Code Pro', monospace;
     padding-top: 10%;
 }
 
@@ -107,8 +108,8 @@ h1{
 }
 
 .paragraph{
-    font-size: 100%;
-    font-family: cursive;
+    font-size: 1.2em;
+    font-family: 'Akaya Telivigala', cursive;
     line-height: 3.5;
     text-align: center;
 }
@@ -150,7 +151,7 @@ h1{
     color: honeydew;
     text-align: center;
     font-size: 4em;
-    font-family:monospace;
+    font-family: 'Source Code Pro', monospace;
     padding-top: 1em;
     padding-bottom: 1em;
 }
