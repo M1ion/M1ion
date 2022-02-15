@@ -1,5 +1,10 @@
 body{
     margin: 0;
+    padding: 0;
+}
+
+.navbar-collapse{
+    background:url("banner.png")
 }
 
 hr{
@@ -47,7 +52,7 @@ h1{
 
 #heading{
     font-size: 10em;
-    font-family:cursive;
+    font-family: 'Akaya Telivigala', cursive;
     position: relative;
     bottom: 50;
 }
@@ -64,7 +69,8 @@ h1{
 #paragraph-one{
     padding-top: 2.500em;
     font-size: 1.250em;
-    font-family: cursive;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-weight: 15;
     position: relative;
     bottom: 3.125em;
 }
@@ -255,7 +261,7 @@ h1{
     font-size: 3em;
 }
 
-img{
+.contact-img{
     border-radius: 64px;
     max-width: 500%;
     max-height: 500%;
@@ -263,4 +269,22 @@ img{
 
 .container{
     padding: 10% 5%;
+}
+
+.card-body{
+    color:#456268;
+    background-color:whitesmoke;
+}
+
+.responsibilities{
+    background-color: whitesmoke;
+}
+
+.res-items{
+    margin-left: -20;
+}
+
+#teamPhoto{
+    width: 100%;
+    height: 100%;
 }
