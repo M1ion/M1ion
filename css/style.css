@@ -275,3 +275,7 @@ nav div ul li{
     border: none;
     font-size: 1em;
 }
+
+.member-box{ 
+    padding: 3.125em 1.875em 2em 1.875em;
+}
